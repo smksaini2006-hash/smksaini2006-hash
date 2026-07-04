@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muskan Saini 👋
 
-<!--
-**smksaini2006-hash/smksaini2006-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Learning Python, HTML, CSS, JavaScript & Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI, Agentic AI and Web Development
+
+🌱 Currently improving my coding skills
+
+## Skills
+- HTML
+- CSS
+- Python
+- Git & GitHub
+- Basic JavaScript
+
+## Goals
+- Build real-world projects
+- Contribute to Open Source
+- Become an AI Software Developer
+
+⭐ Thanks for visiting my profile!
